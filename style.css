@@ -1,3 +1,4 @@
+
 html, body{
     margin:0;
     padding: 0;
@@ -24,4 +25,31 @@ ul{
     text-align: center;
     list-style: none;
     padding: 0;
+}
+
+
+.accueil{
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: space-around;
+    height:70vh;
+}
+
+.accueil h1{
+  margin:0 auto;  
+}
+
+
+.accueil .carteContainer{
+    display:flex;
+    justify-content: space-around;
+    width:60vw;
+}
+
+.accueil .carte{
+    background-color:blue;
+    width:20%;
+    margin:0 2.5%;
 }
