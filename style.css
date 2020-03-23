@@ -1,4 +1,3 @@
-
 html, body{
     margin:0;
     padding: 0;
@@ -35,21 +34,49 @@ ul{
     align-items:center;
     justify-content: space-around;
     height:70vh;
+    background-color:lightyellow;
+}
+
+.accueil a{
+    color:black;
+    text-decoration: none;
 }
 
 .accueil h1{
-  margin:0 auto;  
+ text-align:center;
 }
 
+.accueil h2{
+  text-align:center;
+padding-top:20px;
+}
 
 .accueil .carteContainer{
     display:flex;
     justify-content: space-around;
     width:60vw;
+    
 }
 
 .accueil .carte{
-    background-color:blue;
-    width:20%;
-    margin:0 2.5%;
+ 
+    width:10vw;
+    margin:0 2vw;
+    height:15vw;
+}
+
+.accueil .carte1{
+    background-color:indianred;
+}
+
+.accueil .carte2{
+    background-color:skyblue;
+}
+
+.accueil .carte3{
+    background-color:gainsboro;
+}
+
+.accueil .carte4{
+    background-color:sandybrown;
 }
