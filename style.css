@@ -80,3 +80,44 @@ padding-top:20px;
 .accueil .carte4{
     background-color:sandybrown;
 }
+
+
+
+
+.liste{
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: space-around;
+    height:70vh;
+    
+}
+
+
+.liste h1{
+ text-align:center;
+}
+
+.liste p{
+  text-align:center;
+padding-top:20px;
+    font-size:20px;
+}
+
+
+.listeFeu{
+    background-color:indianred;
+}
+
+.listeEau{
+    background-color:skyblue;
+}
+
+.listeAir{
+    background-color:gainsboro;
+}
+
+.listeSol{
+    background-color:sandybrown;
+}
