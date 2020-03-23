@@ -15,6 +15,16 @@ Page d'accueil		Eau	Liste Pokemon
 			Sol	Liste Pokemon
 				Forces/Faiblesses       
       
+      
+      
+      
+Liste pokemon: Listes de quelques pokemons appartenant à ce type.
+Forces/Faiblesses: Atouts majeurs et faiblesses de chaque type par rapport aux autres types.
+ 
  
 Les technologies utilisées sont l'HTML et le CSS.
       
+Rôles:
+Ronan: Pages Feu Eau Air Sol, Forces/Faiblesses
+Samuel: Page d'accueil, Liste Pokemon
+
