@@ -15,6 +15,9 @@ Page d'accueil		Eau	Liste Pokemon
 			Sol	Liste Pokemon
 				Forces/Faiblesses       
       
+Descriptions
+la page d'acceuil introduit le sujet sur les pokémons en général.
+Les pages Feu Eau Air et Sol explicitent les pouvoirs qu'ont les pokémons de cette catégorie.
  
 Les technologies utilisées sont l'HTML et le CSS.
       
